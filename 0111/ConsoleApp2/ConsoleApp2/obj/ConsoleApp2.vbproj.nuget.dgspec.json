@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.vbproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.vbproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\yns\\0111\\ConsoleApp2\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
